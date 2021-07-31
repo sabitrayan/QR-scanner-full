@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "47A02DFA2670A3D100DFA715"
+               BuildableName = "QrRestaurantMenuApp.app"
+               BlueprintName = "QrRestaurantMenuApp"
+               ReferencedContainer = "container:QrRestaurantMenuApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "47A02DFA2670A3D100DFA715"
+            BuildableName = "QrRestaurantMenuApp.app"
+            BlueprintName = "QrRestaurantMenuApp"
+            ReferencedContainer = "container:QrRestaurantMenuApp.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
